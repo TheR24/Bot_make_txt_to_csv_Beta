@@ -1,0 +1,5 @@
+id,username,email,password,phone,first_name,last_name,telegram,country,registered,notes
+1,john_doe,john.doe@gmail.com,Pass@1234,+1-555-234-5678,John,Doe,@johndoe,USA,2024-01-15,Premium user
+2,jane_smith,jane.smith@yahoo.com,Secret#99,+1-555-876-5432,Jane,Smith,@janesmith,Canada,2024-02-20,
+3,bob_jones,bob.jones@outlook.com,Bobby!2024,+44-20-7946-0123,Bob,Jones,,UK,2024-03-10,VIP customer
+4,alice_w,alice.w@hotmail.com,Alice@5678,+61-2-9876-5432,Alice,Walker,@alicew,Australia,2024-04-05,

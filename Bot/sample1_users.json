@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "username": "john_doe",
+    "email": "john.doe@gmail.com",
+    "password": "Pass@1234",
+    "phone": "+1-555-234-5678",
+    "first_name": "John",
+    "last_name": "Doe",
+    "telegram": "@johndoe",
+    "country": "USA",
+    "registered": "2024-01-15",
+    "notes": "Premium user"
+  },
+  {
+    "id": 2,
+    "username": "jane_smith",
+    "email": "jane.smith@yahoo.com",
+    "password": "Secret#99",
+    "phone": "+1-555-876-5432",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "telegram": "@janesmith",
+    "country": "Canada",
+    "registered": "2024-02-20",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "username": "bob_jones",
+    "email": "bob.jones@outlook.com",
+    "password": "Bobby!2024",
+    "phone": "+44-20-7946-0123",
+    "first_name": "Bob",
+    "last_name": "Jones",
+    "telegram": "",
+    "country": "UK",
+    "registered": "2024-03-10",
+    "notes": "VIP customer"
+  },
+  {
+    "id": 4,
+    "username": "alice_w",
+    "email": "alice.w@hotmail.com",
+    "password": "Alice@5678",
+    "phone": "+61-2-9876-5432",
+    "first_name": "Alice",
+    "last_name": "Walker",
+    "telegram": "@alicew",
+    "country": "Australia",
+    "registered": "2024-04-05",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "username": "jane_smith",
+    "email": "jane.smith@yahoo.com",
+    "password": "Secret#99",
+    "phone": "+1-555-876-5432",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "telegram": "@janesmith",
+    "country": "Canada",
+    "registered": "2024-02-20",
+    "notes": ""
+  }
+]

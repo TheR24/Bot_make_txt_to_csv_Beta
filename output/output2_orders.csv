@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,email,product,quantity,price,status,date,shipping_address
+ORD-1001,CUST-001,John Doe,john.doe@gmail.com,Laptop Pro 15,1,1299.99,Delivered,2024-05-01,"123 Main St, New York, USA"
+ORD-1002,CUST-002,Jane Smith,jane.smith@yahoo.com,Wireless Mouse,2,49.99,Shipped,2024-05-03,"456 Oak Ave, Toronto, Canada"
+ORD-1003,CUST-003,Bob Jones,bob.jones@outlook.com,USB-C Hub,1,79.99,Processing,2024-05-07,"789 Baker St, London, UK"
+ORD-1004,CUST-004,Alice Walker,alice.w@hotmail.com,Mechanical Keyboard,1,149.99,Delivered,2024-05-10,"22 George St, Sydney, Australia"
+ORD-1005,CUST-001,John Doe,john.doe@gmail.com,Monitor 27",1,399.99,Cancelled,2024-05-12,"123 Main St, New York, USA"

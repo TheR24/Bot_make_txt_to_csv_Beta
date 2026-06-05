@@ -1,0 +1,10 @@
+product_id,name,category,brand,price,stock,url,description
+101,Laptop Pro 15,Electronics,TechBrand,1299.99,50,https://shop.example.com/laptop-pro-15,High performance laptop with 15" display
+102,Wireless Mouse,Accessories,ClickMaster,49.99,200,https://shop.example.com/wireless-mouse,Ergonomic wireless mouse 2.4GHz
+103,USB-C Hub,Accessories,ConnectAll,79.99,150,https://shop.example.com/usb-c-hub,7-in-1 USB-C hub with HDMI and PD
+104,Mechanical Keyboard,Accessories,TypeFast,149.99,80,https://shop.example.com/mech-keyboard,TKL mechanical keyboard with RGB
+105,Monitor 27",Electronics,ViewClear,399.99,30,https://shop.example.com/monitor-27,27 inch 4K IPS monitor 144Hz
+106,Webcam HD,Electronics,StreamPro,89.99,120,https://shop.example.com/webcam-hd,1080p webcam with built-in mic
+107,Laptop Stand,Accessories,ErgoDesk,39.99,300,https://shop.example.com/laptop-stand,Adjustable aluminum laptop stand
+108,SSD 1TB,Storage,SpeedDrive,119.99,90,https://shop.example.com/ssd-1tb,NVMe SSD 1TB read 3500MB/s
+109,RAM 32GB,Components,MemoryKing,99.99,60,https://shop.example.com/ram-32gb,DDR5 32GB 5600MHz kit
